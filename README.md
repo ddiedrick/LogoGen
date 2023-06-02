@@ -1,7 +1,7 @@
 # LogoGen
 
 ## Description
-This project uses javascript and node features to generate an SVG file with a logo based on user prompts and inputs in the command line. User is prompted to enter the color of the text, color of the logo shape and given the choice of 3 different shapes. Then using the results of the prompts, writeFile is invoked to create the SVG file and logo.
+This project uses javascript and node features to generate an SVG file with a logo based on user prompts and inputs in the command line. User is prompted to enter the color of the text, color of the logo shape and given the choice of 3 different shapes. Then using the results of the prompts, writeFile is invoked to create the SVG file and logo. There is also a test file to test that the shapes and colors work correctly. It was tested with jest and npm run test command.
 
 
 ## Screenshot from command line
