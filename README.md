@@ -16,8 +16,13 @@ This project uses javascript and node features to generate an SVG file with a lo
 <img width="664" alt="Screenshot 2023-06-02 at 12 08 59 AM" src="https://github.com/ddiedrick/LogoGen/assets/35505692/e053918a-ef7c-41cd-a015-c9bf8bf96018">
 
 
-## Video
+## Videos
 
 
 https://github.com/ddiedrick/LogoGen/assets/35505692/b294691b-6f42-4258-8816-71061566fec0
+
+
+
+
+https://github.com/ddiedrick/LogoGen/assets/35505692/30107386-f170-4621-b6ef-22aecc2b6991
 
